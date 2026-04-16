@@ -46,13 +46,15 @@ export function CTABanner({ dict }: { dict: Dictionary }) {
               {t.whatsapp}
             </Button>
           </a>
-          <Button
-            size="lg"
-            variant="outline"
-            className="border-border/60 dark:border-border/60 bg-secondary/30 dark:bg-secondary/30 hover:bg-secondary/60 dark:hover:bg-secondary/60 text-foreground dark:text-foreground font-semibold px-8 py-6 text-base w-full sm:w-auto"
-          >
-            {t.consultation}
-          </Button>
+          <a href="mailto:263203788@qq.com">
+            <Button
+              size="lg"
+              variant="outline"
+              className="border-border/60 dark:border-border/60 bg-secondary/30 dark:bg-secondary/30 hover:bg-secondary/60 dark:hover:bg-secondary/60 text-foreground dark:text-foreground font-semibold px-8 py-6 text-base w-full sm:w-auto"
+            >
+              {t.consultation}
+            </Button>
+          </a>
         </div>
 
         <p className="text-sm text-muted-foreground dark:text-muted-foreground">{t.note}</p>

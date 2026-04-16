@@ -1,7 +1,6 @@
 "use client"
 
-import { Button } from "@/components/ui/button"
-import { ArrowRight, MessageSquare, Bot, CheckCircle2 } from "lucide-react"
+import { MessageSquare, Bot, CheckCircle2 } from "lucide-react"
 import type { Dictionary } from "@/app/[lang]/dictionaries"
 
 // Interpolate {whatsapp}, {telegram}, {line} placeholders with bold spans
@@ -62,16 +61,6 @@ export function Hero({ dict }: { dict: Dictionary }) {
         <p className="max-w-2xl text-lg md:text-xl text-muted-foreground leading-relaxed text-pretty">
           <HeroSubtitle template={t.subtitle} />
         </p>
-
-        {/* CTAs */}
-        <div className="flex flex-col sm:flex-row items-center gap-4 mt-2">
-          <Button
-            size="lg"
-            className="gradient-btn text-white border-0 shadow-xl font-semibold px-8 py-6 text-base hover:opacity-90 transition-all duration-200 hover:scale-[1.02] group"
-          >
-            {t.cta}
-            <ArrowRight className="ml-2 w-4 h-4 group-hover:translate-x-1 transition-transform" />          </Button>
-        </div>
 
         {/* Hero Mockup */}
         <div className="w-full mt-8 relative">

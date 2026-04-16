@@ -26,20 +26,6 @@ export function Integrations({ dict }: { dict: Dictionary }) {
         </p>
 
         <div className="w-full relative overflow-hidden">
-          {/* Fade edges */}
-          <div className="pointer-events-none absolute left-0 top-0 bottom-0 w-20 z-10"
-            style={{ background: "linear-gradient(to right, oklch(0.98 0.001 0), transparent)" }}
-          />
-          <div className="pointer-events-none absolute right-0 top-0 bottom-0 w-20 z-10"
-            style={{ background: "linear-gradient(to left, oklch(0.98 0.001 0), transparent)" }}
-          />
-          <div className="dark pointer-events-none absolute left-0 top-0 bottom-0 w-20 z-10"
-            style={{ background: "linear-gradient(to right, oklch(0.13 0.01 264), transparent)" }}
-          />
-          <div className="dark pointer-events-none absolute right-0 top-0 bottom-0 w-20 z-10"
-            style={{ background: "linear-gradient(to left, oklch(0.13 0.01 264), transparent)" }}
-          />
-
           <div className="flex items-center justify-center gap-6 md:gap-10 flex-wrap py-2">
             {channels.map((ch) => (
               <div key={ch.label} className="flex flex-col items-center gap-2 group cursor-default">

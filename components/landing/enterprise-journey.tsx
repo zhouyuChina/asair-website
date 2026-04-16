@@ -1,5 +1,4 @@
 import { Check, ArrowRight } from "lucide-react"
-import { Button } from "@/components/ui/button"
 import type { Dictionary } from "@/app/[lang]/dictionaries"
 
 export function EnterpriseJourney({ dict }: { dict: Dictionary }) {
@@ -53,13 +52,7 @@ export function EnterpriseJourney({ dict }: { dict: Dictionary }) {
         {/* CTA section */}
         <div className="mt-16 glass-card rounded-2xl p-8 border border-primary/10 text-center">
           <h3 className="text-2xl font-bold text-foreground mb-3">{t.ctaTitle}</h3>
-          <p className="text-muted-foreground mb-6 max-w-xl mx-auto">{t.ctaSubtitle}</p>
-          <Button
-            size="lg"
-            className="gradient-btn text-white border-0 shadow-xl font-semibold px-8 py-6 hover:opacity-90 transition-opacity"
-          >
-            {t.ctaButton}
-          </Button>
+          <p className="text-muted-foreground max-w-xl mx-auto">{t.ctaSubtitle}</p>
         </div>
       </div>
     </section>

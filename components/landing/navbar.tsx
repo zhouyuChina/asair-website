@@ -63,12 +63,14 @@ export function Navbar({ dict, lang }: NavbarProps) {
         <div className="hidden md:flex items-center gap-2">
           <LanguageDropdown currentLang={lang} />
           <ThemeToggle />
-          <Button
-            size="sm"
-            className="gradient-btn text-white border-0 shadow-lg hover:opacity-90 transition-opacity font-semibold px-6"
-          >
-            {t.contactSales}
-          </Button>
+          <a href="https://wa.me/6584374880" target="_blank" rel="noopener noreferrer">
+            <Button
+              size="sm"
+              className="gradient-btn text-white border-0 shadow-lg hover:opacity-90 transition-opacity font-semibold px-6"
+            >
+              {t.contactSales}
+            </Button>
+          </a>
         </div>
 
         {/* Mobile Menu Toggle */}
@@ -100,9 +102,11 @@ export function Navbar({ dict, lang }: NavbarProps) {
                 <LanguageDropdown currentLang={lang} />
                 <ThemeToggle />
               </div>
-              <Button size="sm" className="gradient-btn text-white border-0 font-semibold">
-                {t.contactSales}
-              </Button>
+              <a href="https://wa.me/6584374880" target="_blank" rel="noopener noreferrer">
+                <Button size="sm" className="gradient-btn text-white border-0 font-semibold w-full">
+                  {t.contactSales}
+                </Button>
+              </a>
             </div>
           </div>
         </div>
