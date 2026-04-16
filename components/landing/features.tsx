@@ -61,13 +61,7 @@ export function Features({ dict }: { dict: Dictionary }) {
                   ))}
                 </div>
 
-                <a
-                  href="#"
-                  className="inline-flex items-center gap-2 text-sm font-semibold text-primary hover:text-primary/80 transition-colors mt-2 group/link"
-                >
-                  {t.learnMore}
-                  <span className="group-hover/link:translate-x-1 transition-transform">→</span>
-                </a>
+
               </div>
             )
           })}
