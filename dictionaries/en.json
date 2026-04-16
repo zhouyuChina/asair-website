@@ -1,0 +1,165 @@
+{
+  "nav": {
+    "platform": "Our Platform",
+    "services": "Services & R&D",
+    "about": "About Us",
+    "contactSales": "Contact Sales"
+  },
+  "hero": {
+    "badge": "Enterprise-Grade Omnichannel AI Platform",
+    "headline1": "Enterprise-Grade Omnichannel",
+    "headlineAccent": "AI Customer",
+    "headline2": "Service Solutions.",
+    "subtitle": "Scale your global support with ASAIR's highly customisable multi-tenant platform. Connect {whatsapp}, {telegram}, and {line} in minutes.",
+    "cta": "Discuss Your Solution"
+  },
+  "integrations": {
+    "sectionLabel": "Seamlessly integrates with your global channels",
+    "stats": {
+      "messages": "Messages Processed",
+      "uptime": "Uptime SLA",
+      "countries": "Countries Served"
+    }
+  },
+  "features": {
+    "sectionLabel": "Our Capabilities",
+    "sectionTitle1": "Enterprise Solutions Built for",
+    "sectionTitleAccent": "Scale & Security",
+    "sectionSubtitle": "ASAIR combines a powerful omnichannel platform with bespoke development and security services. Get everything your enterprise needs in one partner.",
+    "learnMore": "Learn more",
+    "items": {
+      "multitenant": {
+        "title": "Core Multi-tenant Platform",
+        "description": "Enterprise-grade omnichannel inbox with unified conversation management. Connect WhatsApp, Telegram, LINE, and custom channels in a single, powerful platform.",
+        "highlights": [
+          "Unified omnichannel inbox",
+          "Multi-tenant data isolation",
+          "Custom workflow automation",
+          "Advanced conversation routing"
+        ]
+      },
+      "webDev": {
+        "title": "Bespoke Network App Development",
+        "description": "Custom web and network application development tailored to your enterprise needs. Build scalable solutions that integrate seamlessly with your ASAIR platform.",
+        "highlights": [
+          "Full-stack development",
+          "Custom integrations",
+          "API-first architecture",
+          "Scalable infrastructure"
+        ]
+      },
+      "security": {
+        "title": "Integrated Cyber Security Setup",
+        "description": "Security-first enterprise infrastructure with comprehensive data protection, DDoS mitigation, and compliance standards built in from day one.",
+        "highlights": [
+          "Enterprise data isolation",
+          "DDoS protection",
+          "GDPR & compliance ready",
+          "Security audits included"
+        ]
+      },
+      "rd": {
+        "title": "Advanced Software R&D",
+        "description": "Complex backend development, experimental AI labs, and workflow automation. Access cutting-edge research capabilities including Dify-powered workflow orchestration.",
+        "highlights": [
+          "Custom AI model integration",
+          "Backend infrastructure",
+          "Experimental features lab",
+          "Advanced workflow builder"
+        ]
+      }
+    },
+    "globalReach": {
+      "title": "Global Reach",
+      "description": "Multi-region deployment with local compliance and data residency requirements."
+    },
+    "enterpriseGrade": {
+      "title": "Enterprise Grade",
+      "description": "99.99% uptime SLA, dedicated infrastructure, and premium support included."
+    },
+    "aiPowered": {
+      "title": "AI-Powered",
+      "description": "Advanced AI workflows with custom LLM integration and experimental features."
+    }
+  },
+  "journey": {
+    "sectionLabel": "Our Process",
+    "sectionTitle1": "Your Enterprise Journey with",
+    "sectionTitleAccent": "ASAIR",
+    "sectionSubtitle": "From initial consultation to full deployment, we guide your organization through every step of the transformation.",
+    "ctaTitle": "Ready to Begin Your Enterprise Journey?",
+    "ctaSubtitle": "Let's discuss how ASAIR can transform your global customer support operations.",
+    "ctaButton": "Schedule a Consultation",
+    "steps": [
+      {
+        "title": "Consultation",
+        "description": "We work with your team to understand your specific business challenges, scale requirements, and technical constraints.",
+        "details": [
+          "Requirements gathering",
+          "Architecture planning",
+          "Budget & timeline discussion",
+          "Team alignment"
+        ]
+      },
+      {
+        "title": "Tailored Design",
+        "description": "Custom solutions designed specifically for your enterprise needs, combining platform capabilities with bespoke development services.",
+        "details": [
+          "Solution architecture",
+          "Custom feature roadmap",
+          "Integration planning",
+          "Security framework"
+        ]
+      },
+      {
+        "title": "Deployment & Support",
+        "description": "Seamless deployment with dedicated support teams ensuring smooth rollout, training, and ongoing optimization for your organization.",
+        "details": [
+          "Dedicated deployment team",
+          "Staff training programs",
+          "24/7 premium support",
+          "Continuous optimization"
+        ]
+      }
+    ]
+  },
+  "cta": {
+    "title1": "Ready to scale your enterprise support",
+    "titleAccent": "with AI?",
+    "subtitle": "Transform your global customer support operations with ASAIR's enterprise-grade omnichannel AI platform. From consultation to deployment, we're with you every step.",
+    "whatsapp": "Chat on WhatsApp",
+    "consultation": "Request Consultation",
+    "note": "Enterprise support for global teams"
+  },
+  "footer": {
+    "description": "Enterprise-grade omnichannel AI customer service platform for global teams.",
+    "columns": {
+      "product": "Product",
+      "resources": "Resources",
+      "company": "Company",
+      "contact": "Contact"
+    },
+    "links": {
+      "features": "Features",
+      "services": "Services & R&D",
+      "journey": "Enterprise Journey",
+      "roadmap": "Roadmap",
+      "apiDocs": "API Docs",
+      "developerGuide": "Developer Guide",
+      "blog": "Blog",
+      "statusPage": "Status Page",
+      "community": "Community",
+      "aboutUs": "About Us",
+      "careers": "Careers",
+      "pressKit": "Press Kit",
+      "partners": "Partners",
+      "contactLink": "Contact"
+    },
+    "copyright": "© 2026 ASAIR PTE. LTD. All rights reserved.",
+    "systemStatus": "All systems operational"
+  },
+  "metadata": {
+    "title": "ASAIR — Enterprise AI Customer Service Platform",
+    "description": "The ultimate multi-tenant omnichannel AI helpdesk. Connect WhatsApp, Telegram, and LINE in minutes. Automate your global customer support with AI."
+  }
+}

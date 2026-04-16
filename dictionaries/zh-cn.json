@@ -1,0 +1,165 @@
+{
+  "nav": {
+    "platform": "我们的平台",
+    "services": "服务与研发",
+    "about": "关于我们",
+    "contactSales": "联系销售"
+  },
+  "hero": {
+    "badge": "企业级全渠道 AI 平台",
+    "headline1": "企业级全渠道",
+    "headlineAccent": "AI 客户",
+    "headline2": "服务解决方案。",
+    "subtitle": "使用 ASAIR 高度可定制的多租户平台扩展您的全球支持。几分钟内接入 {whatsapp}、{telegram} 和 {line}。",
+    "cta": "探讨您的解决方案"
+  },
+  "integrations": {
+    "sectionLabel": "与您的全球渠道无缝集成",
+    "stats": {
+      "messages": "消息处理量",
+      "uptime": "正常运行时间 SLA",
+      "countries": "覆盖国家"
+    }
+  },
+  "features": {
+    "sectionLabel": "我们的能力",
+    "sectionTitle1": "专为",
+    "sectionTitleAccent": "规模与安全",
+    "sectionSubtitle": "ASAIR 将强大的全渠道平台与定制化开发和安全服务相结合，在一个合作伙伴中获得企业所需的一切。",
+    "learnMore": "了解更多",
+    "items": {
+      "multitenant": {
+        "title": "核心多租户平台",
+        "description": "企业级全渠道收件箱，统一对话管理。在一个强大的平台中接入 WhatsApp、Telegram、LINE 及自定义渠道。",
+        "highlights": [
+          "统一全渠道收件箱",
+          "多租户数据隔离",
+          "自定义工作流自动化",
+          "高级对话路由"
+        ]
+      },
+      "webDev": {
+        "title": "定制化网络应用开发",
+        "description": "根据企业需求量身定制的 Web 和网络应用开发，构建与 ASAIR 平台无缝集成的可扩展解决方案。",
+        "highlights": [
+          "全栈开发",
+          "自定义集成",
+          "API 优先架构",
+          "可扩展基础设施"
+        ]
+      },
+      "security": {
+        "title": "集成网络安全设置",
+        "description": "以安全为优先的企业基础设施，从第一天起就内置全面的数据保护、DDoS 防护和合规标准。",
+        "highlights": [
+          "企业数据隔离",
+          "DDoS 防护",
+          "GDPR 及合规就绪",
+          "包含安全审计"
+        ]
+      },
+      "rd": {
+        "title": "高级软件研发",
+        "description": "复杂后端开发、实验性 AI 实验室和工作流自动化，获取包括 Dify 驱动工作流编排在内的前沿研究能力。",
+        "highlights": [
+          "自定义 AI 模型集成",
+          "后端基础设施",
+          "实验功能实验室",
+          "高级工作流构建器"
+        ]
+      }
+    },
+    "globalReach": {
+      "title": "全球覆盖",
+      "description": "多区域部署，满足本地合规和数据驻留要求。"
+    },
+    "enterpriseGrade": {
+      "title": "企业级标准",
+      "description": "99.99% 正常运行时间 SLA、专属基础设施和高级支持。"
+    },
+    "aiPowered": {
+      "title": "AI 驱动",
+      "description": "高级 AI 工作流，支持自定义 LLM 集成和实验性功能。"
+    }
+  },
+  "journey": {
+    "sectionLabel": "我们的流程",
+    "sectionTitle1": "您与",
+    "sectionTitleAccent": "ASAIR",
+    "sectionSubtitle": "从初次咨询到完整部署，我们引导您的组织完成每一步转型。",
+    "ctaTitle": "准备好开始您的企业之旅了吗？",
+    "ctaSubtitle": "让我们探讨 ASAIR 如何改变您的全球客户支持运营。",
+    "ctaButton": "预约咨询",
+    "steps": [
+      {
+        "title": "咨询",
+        "description": "我们与您的团队合作，了解您的具体业务挑战、规模需求和技术约束。",
+        "details": [
+          "需求收集",
+          "架构规划",
+          "预算与时间线讨论",
+          "团队协调"
+        ]
+      },
+      {
+        "title": "量身设计",
+        "description": "专为您的企业需求定制的解决方案，将平台能力与定制化开发服务相结合。",
+        "details": [
+          "解决方案架构",
+          "自定义功能路线图",
+          "集成规划",
+          "安全框架"
+        ]
+      },
+      {
+        "title": "部署与支持",
+        "description": "无缝部署，专属支持团队确保顺利推进、员工培训和持续优化。",
+        "details": [
+          "专属部署团队",
+          "员工培训计划",
+          "24/7 高级支持",
+          "持续优化"
+        ]
+      }
+    ]
+  },
+  "cta": {
+    "title1": "准备好用 AI 扩展您的企业支持了吗",
+    "titleAccent": "？",
+    "subtitle": "借助 ASAIR 企业级全渠道 AI 平台，转变您的全球客户支持运营。从咨询到部署，我们全程陪伴。",
+    "whatsapp": "WhatsApp 咨询",
+    "consultation": "申请咨询",
+    "note": "为全球团队提供企业支持"
+  },
+  "footer": {
+    "description": "面向全球团队的企业级全渠道 AI 客户服务平台。",
+    "columns": {
+      "product": "产品",
+      "resources": "资源",
+      "company": "公司",
+      "contact": "联系我们"
+    },
+    "links": {
+      "features": "功能特性",
+      "services": "服务与研发",
+      "journey": "企业之旅",
+      "roadmap": "产品路线图",
+      "apiDocs": "API 文档",
+      "developerGuide": "开发者指南",
+      "blog": "博客",
+      "statusPage": "状态页面",
+      "community": "社区",
+      "aboutUs": "关于我们",
+      "careers": "招聘",
+      "pressKit": "新闻资料",
+      "partners": "合作伙伴",
+      "contactLink": "联系我们"
+    },
+    "copyright": "© 2026 ASAIR PTE. LTD. 保留所有权利。",
+    "systemStatus": "所有系统运行正常"
+  },
+  "metadata": {
+    "title": "ASAIR — 企业级 AI 客户服务平台",
+    "description": "终极多租户全渠道 AI 帮助台。几分钟内接入 WhatsApp、Telegram 和 LINE，用 AI 自动化您的全球客户支持。"
+  }
+}
