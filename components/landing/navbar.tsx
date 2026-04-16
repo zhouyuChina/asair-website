@@ -18,9 +18,9 @@ export function Navbar({ dict, lang }: NavbarProps) {
   const [mobileOpen, setMobileOpen] = useState(false)
 
   const navLinks = [
-    { label: t.platform, href: "#features" },
+    { label: t.platform, href: "#journey" },
     { label: t.services, href: "#services" },
-    { label: t.about, href: "#about" },
+    { label: t.about, href: "#footer" },
   ]
 
   useEffect(() => {

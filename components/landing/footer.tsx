@@ -37,7 +37,7 @@ export function Footer({ dict }: { dict: Dictionary }) {
   ]
 
   return (
-    <footer className="border-t border-border/40 dark:border-border/40 bg-card/20 dark:bg-card/20 pt-16 pb-8 px-6">
+    <footer id="footer" className="border-t border-border/40 dark:border-border/40 bg-card/20 dark:bg-card/20 pt-16 pb-8 px-6">
       <div className="max-w-7xl mx-auto">
         <div className="grid grid-cols-2 md:grid-cols-5 gap-10 mb-14">
           {/* Brand column */}
